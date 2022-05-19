@@ -33,7 +33,7 @@ title: Home
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
 
-  <p>Complete list of publications on <a href="https://bit.ly/ADSWright" target="_blank">NASA ADS</a>.</p>
+  <p>Complete list of publications on <a href="https://bit.ly/ADSWright" target="_blank">Google Scholar</a>.</p>
 
   <!--
   <ul class="tab-nav">
@@ -234,7 +234,7 @@ title: Home
 <!-- ========== reusme ========== -->
 <div class="docs-section" id="resume">
   <h4>Résumé</h4>
-    <p>One page résumé is available <a href="http://bit.ly/ResWright" target="_blank">here</a>.</p>
+    <!-- <p>One page résumé is available <a href="http://bit.ly/ResWright" target="_blank">here</a>.</p> -->
 
   <!-- The Timeline -->
   <ul class="timeline">
@@ -249,6 +249,9 @@ title: Home
           <span class="flag">{{ exp.place }}</span>
           <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
         </div>
+        {% if exp.advisor %}
+          <div class="desc">Advisor: {{ exp.advisor }}</div>
+        {% endif %}
         <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
       </div>
     </li>
