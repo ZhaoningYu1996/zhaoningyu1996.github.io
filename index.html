@@ -151,8 +151,9 @@ title: Home
 
   {% for service in site.data.services.services %}
     <div class="service">
-      <p>{{service.title}}</p>
+      <p>{{service.title}} <span style="float:right;">{{service.year}}</span></p>
     </div>
+  {% endfor %}
 </div>
 
 <!-- ========== PROJECTS ========== -->
