@@ -1,9 +1,4 @@
-# pauljwright.github.io
+# zhaoningyu1996.github.io
 Personal website
 
-https://identity.stanford.edu/color.html
-
-
-Run your Jekyll site locally:
-  ```
-  $ bundle exec jekyll serve
+This website is based on tamplete by Martin Saveski and Paul J. Wright
