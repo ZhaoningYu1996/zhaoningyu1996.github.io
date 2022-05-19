@@ -1,13 +1,12 @@
 papers:
 
-  - title: "Guiding Heliophysics Toward an Enhanced Transdisciplinary Framework"
-    authors: "Jenny L. Verniero, James Juno, V . M. Sadykov, <b>Paul J. Wright</b>, Sam J. Schonfeld, Ben L. Alterman"
-    venue: "Heliophysics 2050 Workshop, 2020"
-    workshop_website: "https://www.hou.usra.edu/meetings/helio2050/"
+  - title: "Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks"
+    authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
+    venue: "Thirty-ninth International Conference on Machine Learning (ICML), 2022"
+    preprint: "https://arxiv.org/abs/2202.00529"
     selected: y
-    
-  - title: "Evidence of Significant Energy Input in the Late Phase of a Solar Flare from <i>NuSTAR</i> X-Ray Observations"
-    authors: "Matej Kuhar, Säm Krucker, Iain G. Hannah, Lindsay Glesener, Pascal Saint-Hilaire, Brian W. Grefenstette, Hugh S. Hudson, Stephen M. White, David M. Smith, Andrew J. Marsh, <b>Paul J. Wright</b>, Steven E. Boggs, Finn E. Christensen, William W. Craig, Charles J. Hailey, Fiona A. Harrison, Daniel Stern, William W. Zhang"
-    venue: "The Astrophysical Journal, 2017"
-    paper_pdf: "https://iopscience.iop.org/article/10.3847/1538-4357/835/1/6/meta"
-    selected: n
+
+  - title: "MotifExplainer: a Motif-based Graph Neural Network Explainer"
+    authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
+    preprint: "https://arxiv.org/abs/2202.00519"
+    selected: y
