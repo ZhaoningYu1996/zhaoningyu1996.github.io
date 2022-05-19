@@ -1,7 +1,10 @@
 news:
 
   - title: "Our paper <a href='https://arxiv.org/abs/2202.00529'>Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks</a> has been accepted to ICML 2022."
-    data: "05/2022"
+    date: "05/2022"
+
+  - title: "I won a seed funding from the Department of Computer Science at Iowa State University"
+    date: "05/2021"
 
   # - title: "New Website"
   #  #subtitle: ""
