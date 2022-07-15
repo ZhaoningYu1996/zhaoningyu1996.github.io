@@ -4,7 +4,7 @@ papers:
     authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
     venue: "Thirty-ninth International Conference on Machine Learning (ICML), 2022"
     paper_pdf: "https://proceedings.mlr.press/v162/yu22a/yu22a.pdf"
-    codes: "https://github.com/ZhaoningYu1996/HM-GNN"
+    code: "https://github.com/ZhaoningYu1996/HM-GNN"
     selected: y
 
   - title: "MotifExplainer: a Motif-based Graph Neural Network Explainer"
