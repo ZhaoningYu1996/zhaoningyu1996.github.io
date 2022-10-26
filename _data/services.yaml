@@ -2,3 +2,6 @@ services:
 
   - title: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>)"
     year: "2022"
+
+  - title: "Learning on Graphs Conference (<b>LoG</b>)"
+    year: "2022"
