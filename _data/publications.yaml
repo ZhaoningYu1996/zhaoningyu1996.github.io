@@ -1,5 +1,10 @@
 papers:
 
+  - title: "MotifExplainer: a Motif-based Graph Neural Network Explainer"
+    authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
+    preprint: "https://arxiv.org/abs/2202.00519"
+    selected: y
+
   - title: "Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks"
     authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
     venue: "Thirty-ninth International Conference on Machine Learning (ICML), 2022"
@@ -7,7 +12,3 @@ papers:
     code: "https://github.com/ZhaoningYu1996/HM-GNN"
     selected: y
 
-  - title: "MotifExplainer: a Motif-based Graph Neural Network Explainer"
-    authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
-    preprint: "https://arxiv.org/abs/2202.00519"
-    selected: y
