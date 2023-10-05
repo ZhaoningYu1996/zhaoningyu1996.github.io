@@ -1,5 +1,8 @@
 services:
 
+  - title: "International Conference on Learning Representations (<b>ICLR</b>)"
+    year: "2024"
+    
   - title: "Neural Information Processing Systems (<b>NeurIPS</b>)"
     year: "2023"
 
@@ -7,4 +10,4 @@ services:
     year: "2022"
 
   - title: "Learning on Graphs Conference (<b>LoG</b>)"
-    year: "2022"
+    year: "2022, 2023"
