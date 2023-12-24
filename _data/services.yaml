@@ -1,7 +1,7 @@
 services:
 
   - title: "International Conference on Machine Learning (<b>ICML</b>)"
-    yesr: "2024"
+    year: "2024"
 
   - title: "International Conference on Learning Representations (<b>ICLR</b>)"
     year: "2024"
