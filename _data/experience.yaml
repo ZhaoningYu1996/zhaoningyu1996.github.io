@@ -5,6 +5,12 @@ experiences:
     advisor: "Dr.Hongyang Gao"
     subtitle: "Computer Science"
 
+  - place: "Genetech"
+    time: "May '24 - Aug'24"
+    title: "ML Intern"
+    advisor: "Wenyi Wang"
+    category: "work"
+
   - place: "George Washington University"
     time: "Sep '18 - Jun '20"
     title: "M.S. Student"
