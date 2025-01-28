@@ -1,5 +1,8 @@
 news:
 
+  - title: "Our paper <b><a href='https://openreview.net/forum?id=vue9P1Ypk6'>MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation</a></b> has been accepted to <b>ICLR 2025</b>."
+    date: "01/2025"
+    
   - title: "Our paper <b><a href='https://proceedings.mlr.press/v162/yu22a.html'>Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks</a></b> has been accepted to <b>ICML 2022</b>."
     date: "05/2022"
 
