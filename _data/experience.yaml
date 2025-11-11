@@ -4,6 +4,18 @@ experiences:
     title: "Ph.D. Student"
     advisor: "Dr.Hongyang Gao"
     subtitle: "Computer Science"
+  
+  - place: "Google"
+    time: "Aug '25 - Nov'25"
+    title: "Ph.D. SWE Intern"
+    advisor: "Xin Ma"
+    category: "work"
+
+  - place: "Meta"
+    time: "May '25 - Aug'25"
+    title: "Ph.D. SWE Intern"
+    advisor: "Will Su"
+    category: "work"
 
   - place: "Genetech"
     time: "May '24 - Aug'24"
