@@ -1,6 +1,12 @@
 experiences:
+  - place: "Meta"
+    time: "Feb '26 - Present"
+    title: "Research Scientist"
+    advisor: "Zhiyu Liu"
+    category: "work"
+
   - place: "Iowa State University"
-    time: "Jan '21 - present"
+    time: "Jan '21 - May '26"
     title: "Ph.D. Student"
     advisor: "Dr.Hongyang Gao"
     subtitle: "Computer Science"
