@@ -1,4 +1,9 @@
 papers:
+  -title: "RESTRAIN: From Spurious Votes to Signals — Self-Driven RL with Self-Penalization"
+    authors: "<b>Zhaoning Yu</b>, Will Su, Leitian Tao, Haozhu Wang, Aashu Singh, Hanchao Yu, Jianyu Wang, Hongyang Gao, Weizhe Yuan, Jason Weston, Ping Yu, Jing Xu"
+    venue: "International Conference on Learning Representations (ICLR), 2026"
+    paper_pdf: "https://arxiv.org/pdf/2510.02172v1"
+    selected: y
 
   - title: "MAGE: Model-level graph neural networks explanations via motif-based graph generation"
     authors: "<b>Zhaoning Yu</b>, Hongyang Gao"
